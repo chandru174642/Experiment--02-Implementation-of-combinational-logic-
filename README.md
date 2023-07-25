@@ -1,4 +1,6 @@
 # Experiment--02-Implementation-of-combinational-logic
+NAME :chandru
+REGISTER NO: 23007250
 Implementation of combinational logic gates
  
 ## AIM:
